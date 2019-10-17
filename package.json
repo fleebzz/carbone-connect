@@ -1,9 +1,12 @@
 {
   "name": "carbone-connect",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A lib to connect to remote carbone server",
   "main": "index.js",
   "author": "Florian Bezagu <florian@bezagu.com>",
+  "homepage": "https://github.com/fleebzz/carbone-connect#README.md",
+  "repository": "github:fleebzz/carbone-connect",
+  "keywords": ["report", "document", "pdf", "xslx", "docx", "odt", "ods", "json", "connector", "carbone"],
   "license": "MIT",
   "dependencies": {
     "request": "^2.88.0",
